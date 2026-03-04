@@ -14,7 +14,7 @@ operations, pagination, and UI handling.
 
 🚀 **Live Demo (Vercel)**
 
-    https://pr-8-navigator.vercel.app/
+    (https://pr-8-navigator.vercel.app/)
 
 ------------------------------------------------------------------------
 
