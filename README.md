@@ -1,16 +1,113 @@
-# React + Vite
+# 🚀 PR-8-NAVIGATOR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **Employee Management System** built using **React + Vite**.\
+This project demonstrates component-based architecture, routing, CRUD
+operations, pagination, and UI handling.
 
-Currently, two official plugins are available:
+------------------------------------------------------------------------
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Links
 
-## React Compiler
+🔗 **GitHub Repository**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+    https://github.com/devanshi78/PR-8-Navigator.git
 
-## Expanding the ESLint configuration
+🚀 **Live Demo (Vercel)**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+    https://pr-8-navigator.vercel.app/
+
+------------------------------------------------------------------------
+
+## 🛠️ Tech Stack
+
+-   ⚛️ React JS
+-   ⚡ Vite
+-   📦 React Router DOM
+-   🎨 CSS / Bootstrap
+
+------------------------------------------------------------------------
+
+## ✨ Features
+
+-   ✅ Add Employee\
+-   ✅ View Employee List\
+-   ✅ Edit Employee\
+-   ✅ Delete Employee\
+-   ✅ Show/Hide Password\
+-   ✅ Pagination\
+-   ✅ Component-Based Architecture
+
+------------------------------------------------------------------------
+
+## 📂 Project Structure
+
+``` bash
+PR-8-NAVIGATOR/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   └── Header.jsx
+│   │
+│   ├── pages/
+│   │   ├── AddEmployee.jsx
+│   │   ├── Home.jsx
+│   │   └── ViewEmployees.jsx
+│   │
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+------------------------------------------------------------------------
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the repository
+
+``` bash
+git clone https://github.com/devanshi78/PR-8-Navigator.git
+```
+
+### 2️⃣ Navigate to project folder
+
+``` bash
+cd PR-8-NAVIGATOR
+```
+
+### 3️⃣ Install dependencies
+
+``` bash
+npm install
+```
+
+### 4️⃣ Run development server
+
+``` bash
+npm run dev
+```
+
+------------------------------------------------------------------------
+
+## 📚 Learning Concepts Covered
+
+-   Functional Components
+-   Props & State
+-   Event Handling
+-   Conditional Rendering
+-   Routing
+-   Pagination Logic
+-   Frontend CRUD Operations
+
+------------------------------------------------------------------------
+
+## 👩‍💻 Author
+
+**Devanshi Parekh**\
+
+------------------------------------------------------------------------
